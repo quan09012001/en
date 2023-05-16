@@ -8,8 +8,8 @@
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-  width: 210px;
-  height: 210px;
+  width: 410px;
+  height: 410px;
   border: 1px solid black;
   background-color: rgba(204, 204, 204, 0.232);
 }
@@ -56,8 +56,8 @@ button[type="button"]:hover {
 }
 
 img {
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 400px;
+  max-height: 400px;
 }
 
 @media screen and (max-width: 480px) {
